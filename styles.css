@@ -7,16 +7,16 @@ body{
   position: absolute;
   right: 720px;
   top: 3450px;
-  width:100%;
+  width:10%;
 }
 .dog{
-  width: 100%;
+  width: 10%;
   position: absolute;
   right: 500px;
   top:1050px;
   }
 p{
-  font-size: 20px;
+  font-size: 40px;
   line-height: 2;
 }
 .rainbow{
@@ -38,7 +38,7 @@ p{
   font-size: 20px;
 }
 .contact-message{
-  width: 40%;
+  width: 60%;
   margin: 40px auto 40px auto;
 }
 .contact-me{
@@ -124,6 +124,7 @@ a{
   color: #EAF6F6;
   font-family: 'Montserrat' , sans-serif;
   text-decoration: none;
+  font-size:2rem;
 }
 .bottom-container{
   padding-top: 10px;
