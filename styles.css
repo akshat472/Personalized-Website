@@ -153,6 +153,7 @@ a{
 }
 .contact-message{
   font-family: 'IndieFlower', cursive;
+  line-height: 2;
 }
 .intro{
   line-height: 2;
