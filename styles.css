@@ -1,16 +1,154 @@
 body{
   margin: 0;
   text-align:center;
-  background-color: #e4e4e4;
+  background-color: #faf2f2;
+}
+.penguin{
+  position: absolute;
+  right: 720px;
+  top: 3450px;
+  width:5%;
+}
+.dog{
+  width: 10%;
+  position: absolute;
+  right: 500px;
+  top:1050px;
+  }
+p{
+  font-size: 20px;
+  line-height: 2;
+}
+.rainbow{
+  position: relative;
+  top: 100px;
+  right: 280px;
+  width: 15%;
+}
+.cloud{
+  position: relative;
+  bottom: 100px;
+  left: 280px;
+  width: 15%;
 }
 .picwork{
   color: black;
   margin: 20px auto;
   font-family: 'IndieFlower', cursive;
+  font-size: 20px;
 }
 .contact-message{
   width: 40%;
-  margin: 40px auto 60px auto;
+  margin: 40px auto 40px auto;
+}
+.contact-me{
+  font-family: 'IndieFlower', cursive;
+}
+hr{
+  margin: 100px auto;
+  border: dotted #dae1e7 10px;
+  border-bottom: 0;
+  width: 4%;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+.hello{
+  text-align: center;
+}
+.profile-pic{
+  width: 20%;
+  margin-top: 0;
+  }
+.coding{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.photography{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.editing{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+h1{
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+}
+h2{
+  color: #66BFBF;
+  font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+  color: #11999E;
+}
+.lol{
+  text-decoration: underline;
+}
+.top-container{
+  background-color: #f7f7f7;
+}
+.skills{
+  background-color: #faf2f2;
+  text-align: left;
+}
+.skill-one{
+  width: 50%;
+  margin: 100px auto;
+}
+.skill-two{
+  width: 50%;
+  margin: 100px auto ;
+}
+.skill-three{
+  width: 50%;
+  margin: 100px auto;
+}
+a:hover{
+  color: #11999E;
+}
+a{
+  margin: 20px 20px;
+  color: #EAF6F6;
+  font-family: 'Montserrat' , sans-serif;
+  text-decoration: none;
+}
+.bottom-container{
+  padding-top: 10px;
+  background-color: #66BFBF;
+  padding-bottom: 10px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 1rem;
+}
+.einstein{
+  width: 20%;
+}
+.intro{
+  line-height: 2;
+}
+.editingwork{
+  color: black;
+  font-family: 'IndieFlower', cursive;
+  font-size: 20px;
+  margin-left: 180px;
+}
+.profile{
+  background-color: #faf2f2;
+  margin-top: 0px;
 }
 .btn {
 	-moz-box-shadow: 0px 0px 0px 2px #9fb4f2;
@@ -53,109 +191,5 @@ width:140px;
 }.btn:active {
 	position:relative;
 	top:1px;
-}
-hr{
-  margin: 100px auto;
-  border: dotted #EAF6F6 6px;
-  border-bottom: 0;
-  width: 4%;
-}
-.intro{
-  width: 30%;
-  margin: auto;
-}
-.hello{
-  text-align: center;
-}
-.profile-pic{
-  width: 15%;
-  }
-.coding{
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-.photography{
-  width: 25%;
-  float: right;
-  margin-left: 30px;
-}
-.editing{
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-h1{
-  color: #66BFBF;
-  margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
-  font-size: 5rem;
-}
-h2{
-  color: #66BFBF;
-  font-size: 2.5rem;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: normal;
-  padding-bottom: 10px;
-}
-h3{
-  font-family: 'Montserrat', sans-serif;
-  color: #11999E;
-}
-.lol{
-  text-decoration: underline;
-}
-p{
-  line-height: 2;
-}
-.cover{
-  width: 100%;
-}
-.top-container{
-  background-color: #fce8d5;
-}
-.skills{
-  background-color: #fce8d5;
-  text-align: left;
-}
-.skill-one{
-  width: 50%;
-  margin: 100px auto;
-}
-.skill-two{
-  width: 50%;
-  margin: 100px auto ;
-}
-.skill-three{
-  width: 50%;
-  margin: 100px auto;
-}
-a:hover{
-  color: #11999E;
-}
-a{
-  margin: 20px 20px;
-  color: #EAF6F6;
-  font-family: 'Montserrat' , sans-serif;
-  text-decoration: none;
-}
-.bottom-container{
-  margin-top: 100px;
-  background-color: #66BFBF;
-  padding-bottom: 10px;
-  padding-top: 10px;
-}
-.copyright{
-  color: #EAF6F6;
-}
-.einstein{
-  width: 10%;
-}
-.contact-message{
-  font-family: 'IndieFlower', cursive;
-  line-height: 2;
-}
-.intro{
-  line-height: 2;
 }
 
