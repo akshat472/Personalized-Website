@@ -7,10 +7,10 @@ body{
   position: absolute;
   right: 720px;
   top: 3450px;
-  width:5%;
+  width:100%;
 }
 .dog{
-  width: 10%;
+  width: 100%;
   position: absolute;
   right: 500px;
   top:1050px;
