@@ -154,3 +154,7 @@ a{
 .contact-message{
   font-family: 'IndieFlower', cursive;
 }
+.intro{
+  line-height: 2;
+}
+
